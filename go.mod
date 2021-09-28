@@ -8,4 +8,5 @@ require (
 	github.com/google/gops v0.3.19 // indirect
 	github.com/mitchellh/go-ps v1.0.0 // indirect
 	github.com/shirou/gopsutil v2.20.4+incompatible // indirect
+	github.com/shirou/gopsutil/v3 v3.21.5 // indirect
 )
